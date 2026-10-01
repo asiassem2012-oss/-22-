@@ -1,0 +1,6 @@
+{
+  "name": "روح دمشق | Rooh Damascus",
+  "description": "المنيو الرقمي الرسمي لمطعم روح دمشق للمأكولات السورية والشامية بالمنصورة (شارع الترعة أمام الدفاع المدني). اطلب أونلاين شاورما سورية، فتة، ووجبات كريسبي حتى 4 صباحاً.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
